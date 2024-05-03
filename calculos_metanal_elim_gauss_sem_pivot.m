@@ -1,6 +1,6 @@
 %Molécula de Metanal - Distâncias Interatômicas em Angstrom:
-d42=d32= 2.006 % entre H e C
-d34=d43= 1.884 % entre H e O
+d42=d32= 2.006 % entre H e O
+d34=d43= 1.884 % entre H e H
 d12=1.229 % entre O e C
 d13=d41=1.089 % entre H e C
 %Coordenadas calculadas:

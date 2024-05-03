@@ -1,6 +1,6 @@
 %Molécula de Metano - Distâncias Interatômicas em Angstrom:
-d52=d53=d54=d34=d32=d24= 1.778 % entre Hs
-d12=d13=d14=d51=1.089 % entre C e Hs
+d52=d53=d54=d34=d32=d24= 1.778 % entre Hidrogenios
+d12=d13=d14=d51=1.089 % entre C e H
 %Coordenadas do átomo 1 de C:
 u1=v1=w1=0
 %Cordenadas átomo 2 de H:
